@@ -8758,6 +8758,11 @@ pretty-format@^27.0.0, pretty-format@^27.2.0:
     ansi-styles "^5.0.0"
     react-is "^17.0.1"
 
+prevent-pull-refresh@^1.0.6:
+  version "1.0.6"
+  resolved "https://registry.yarnpkg.com/prevent-pull-refresh/-/prevent-pull-refresh-1.0.6.tgz#df29ad15cf7c2816ad88d84c189987e674df72c3"
+  integrity sha512-jtpU3/h1/ftn/Jph5LIqSsTpnCfZo7zheuhmiJf9Jcugqevu4TMt0XbtJ7AU5MLZl2rTS0MVcMg91iVz7EuA+A==
+
 process-nextick-args@~2.0.0:
   version "2.0.1"
   resolved "https://registry.yarnpkg.com/process-nextick-args/-/process-nextick-args-2.0.1.tgz#7820d9b16120cc55ca9ae7792680ae7dba6d7fe2"
